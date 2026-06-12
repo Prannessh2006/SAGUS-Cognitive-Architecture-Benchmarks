@@ -1,4 +1,4 @@
-# Benchmark IV: The 15-Hop God-Tier GraphRAG Challenge
+# Benchmark IV: The 15-Hop GraphRAG Challenge
 
 ## 1. Executive Research Summary: The O(N²) Scalability Bottleneck
 
